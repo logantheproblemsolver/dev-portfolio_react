@@ -1,0 +1,30 @@
+<svg width="417" height="254" viewBox="0 0 417 254" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="417" height="254">
+<rect width="417" height="254" fill="black"/>
+</mask>
+<g mask="url(#mask0)">
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="417" height="254">
+<rect width="417" height="254" fill="black"/>
+</mask>
+<g mask="url(#mask1)">
+</g>
+<g clip-path="url(#clip0)">
+<g clip-path="url(#clip1)">
+<rect x="34.9995" y="22" width="330" height="416" fill="#2B2A26"/>
+<path d="M238.676 90.1731L416 253.759V403.367H34.551V90.1731H238.676Z" fill="#FFEE21"/>
+</g>
+<path d="M335.382 37.771H346.327V40.1443H337.76V44.3659H345.116V46.7392H337.76V51.3716H346.327V53.7449H335.382V37.771Z" fill="#FFEE21"/>
+<path d="M342.052 55.4356V57.8088H331.217V41.835H333.595V55.4356H342.052Z" fill="#FFEE21"/>
+<path d="M331.223 41.8431L335.382 37.7517L337.352 37.7953L333.579 41.9543L331.223 41.8431Z" fill="#FFEE21"/>
+<path d="M342.044 57.8195L346.324 53.728V51.3809L342 55.4431L342.044 57.8195Z" fill="#FFEE21"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="381.449" height="416" fill="white" transform="translate(34.551 22)"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="381.449" height="416" fill="white" transform="translate(34.551 22)"/>
+</clipPath>
+</defs>
+</svg>
